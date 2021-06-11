@@ -7,8 +7,7 @@ from flask import render_template
 from flask import request
 import Search
 import DataLoad
-import traceback
-import logging, termcolor
+import logging
 from logging.handlers import TimedRotatingFileHandler
 import re
 

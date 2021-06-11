@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <model-config>
-    <retrain>False</retrain>
+    <retrain>True</retrain>
     <k-means-n_clusters>10</k-means-n_clusters>
     <k-means-max_iter>1</k-means-max_iter>
     <k-means-n_init>1</k-means-n_init>
